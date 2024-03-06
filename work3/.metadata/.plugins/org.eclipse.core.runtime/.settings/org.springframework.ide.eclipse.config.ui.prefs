@@ -1,0 +1,10 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/spring/appServlet/dao-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/spring/appServlet/security-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/spring/appServlet/service-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/views/spring/appServlet/dao-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/views/spring/appServlet/security-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/views/spring/appServlet/service-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW/src/main/webapp/WEB-INF/views/spring/appServlet/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/helloHW3/src/main/webapp/WEB-INF/views/spring/appServlet/security-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1
